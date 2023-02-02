@@ -1,4 +1,9 @@
 Datos personales: Escudero Castellano Kimberly Alexandra
+
+versión de python: python 3.11.1
+
+La data utilizada nos sirve para apreder más de la secuancias de ADN, y distribuir carpetas entre ellas
+    
 <font color='blue'> Escudero Castellano Kimberly Escudero
 
 <font color='green'>**01-02-2022**
@@ -21,6 +26,4 @@ Datos personales: Escudero Castellano Kimberly Alexandra
       <td>tipo de sistema</td>
       <td>sistema operativode 64bits</td>
     
-    versión de python: python 3.11.1
-    
-    La data utilizada nos sirve para apreder más de la secuancias de ADN, y distribuir carpetas entre ellas
+
